@@ -7,3 +7,5 @@ def index():
 	return "hello python"
 def login():
 	return "hello world"
+def show():
+	print("show")
